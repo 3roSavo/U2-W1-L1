@@ -306,7 +306,7 @@ footer a {
 @media screen and (min-width : 768px) {  /* ------------------------------------------------------------------------------*/
 
     body {
-        padding: 10px 60px;
+        padding: 10px 70px;
     }
 
     header div img {
@@ -360,6 +360,23 @@ footer a {
 
     form input {
         width:65%;
+    }
+
+    aside {
+        text-align: center;
+        vertical-align: middle;
+        font-size: 0.9em;
+    }
+
+
+
+    aside div {
+        display:inline-block;
+        width:32.5%;
+    }
+
+    footer {
+        font-size: 0.9em;
     }
 
 }
